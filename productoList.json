@@ -1,0 +1,12 @@
+[	{ codigo: 1, producto: "Arroz", tipo: "alimento", precio: 12 },
+        { codigo: 2,  producto: "Fideos", tipo: "alimento", precio: 10 },
+        { codigo: 3,  producto: "Pan", tipo: "alimento", precio: 5 },
+        { codigo: 4, producto: "Harina", tipo: "alimento", precio: 9 },
+        { codigo: 5,  producto: "Mermelada", tipo: "alimento", precio: 23 },
+        { codigo: 6,  producto: "Desodorante", tipo: "limpieza", precio: 15 },
+        { codigo: 7, producto: "Lavandina", tipo: "limpieza", precio: 12 },
+        { codigo: 8,  producto: "Perfume", tipo: "limpieza", precio: 30 },
+        { codigo: 9,  producto: "Esponja", tipo: "limpieza", precio: 2 },
+        { codigo: 10, producto: "Toalla", tipo: "blanco", precio: 41 },
+        { codigo: 11,  producto: "Sábanas", tipo: "blanco", precio: 33 }
+];
